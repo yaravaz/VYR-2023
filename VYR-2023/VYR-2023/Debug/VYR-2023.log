@@ -1,0 +1,34 @@
+﻿Сборка начата 21.12.2023 19:17:16.
+Уровень детализации журнала: Normal.     1>Проект "D:\лабы\VYR-2023\VYR-2023\VYR-2023\VYR-2023.vcxproj" в узле 3 (целевые объекты Build).
+     1>PrepareForBuild:
+         Структурированный вывод включен. Форматирование диагностики компилятора будет отражать иерархию ошибок. Подробнее см. https://aka.ms/cpp/structured-output.
+       InitializeBuildStatus:
+         Обращение к "Debug\VYR-2023.tlog\unsuccessfulbuild".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\лабы\VYR-2023\VYR-2023\Debug\VYR-2023.exe" /INCREMENTAL /ILK:"Debug\VYR-2023.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\лабы\VYR-2023\VYR-2023\Debug\VYR-2023.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\лабы\VYR-2023\VYR-2023\Debug\VYR-2023.lib" /MACHINE:X86 Debug\Error.obj
+         Debug\FST.obj
+         Debug\Generation.obj
+         Debug\Greibach.obj
+         Debug\In.obj
+         Debug\IT.obj
+         Debug\Lex.obj
+         Debug\Log.obj
+         Debug\LT.obj
+         Debug\MFST.obj
+         Debug\Parm.obj
+         Debug\PN.obj
+         Debug\Sem.obj
+         "Debug\VYR-2023.obj"
+         VYR-2023.vcxproj -> D:\лабы\VYR-2023\VYR-2023\Debug\VYR-2023.exe
+       FinalizeBuildStatus:
+         Файл "Debug\VYR-2023.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\VYR-2023.tlog\VYR-2023.lastbuildstate".
+     1>Сборка проекта "D:\лабы\VYR-2023\VYR-2023\VYR-2023\VYR-2023.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.14
